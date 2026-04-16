@@ -53,6 +53,26 @@ This project is designed to manage student records efficiently with features lik
 
 ---
 
+```md id="hvw4w0"
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](Home.png)
+
+### 📝 Registration Page
+![Registration Page](registration.png)
+
+### 📋 Student Records
+![Student Records](records.png)
+
+### ✏️ Edit / Delete Page
+![Edit Delete](edit-delete.png)
+
+### 🎉 Thank You Page
+![Thank You](image.png)
+```
+
+
 ## 🔗 GitHub Repository
 
 https://github.com/abhishekyadav071/student-management-system
